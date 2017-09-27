@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // metoda qe bene kalkulimin e kredise
     public static int llogariKredine(int kredia, double interesi, int vitet){
 
         double Interesi = (interesi / 100) / 12;
